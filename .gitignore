@@ -23,6 +23,7 @@ env.bak/
 venv.bak/
 pythonenv*
 .python-version
+migrations
 
 # Distribution / packaging
 .Python
